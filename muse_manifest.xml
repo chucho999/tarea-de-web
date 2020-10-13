@@ -1,0 +1,279 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="web.html" resolutions="1x" timestamp="1602549203280">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-p_g_-maestra.css" crc="3911280260" ref="contacto:fotos:index:videos"/>
+    <file name="contacto.css" crc="506292950" ref="contacto"/>
+    <file name="fotos.css" crc="3969158260" ref="fotos"/>
+    <file name="index.css" crc="3808722382" ref="index"/>
+    <file name="iefonts_index.css" crc="3939766148" ref="index"/>
+    <file name="videos.css" crc="4278738382" ref="videos"/>
+  </folder>
+  <folder name="assets">
+    <file name="vinilo.png" crc="418828981" seo="true" mt="1602179214000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:fotos:videos:contacto"/>
+    <file name="museutils.js" crc="340535759" ref="index:fotos:videos:contacto"/>
+    <file name="whatinput.js" crc="86476730" ref="index:fotos:videos:contacto"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:fotos:videos:contacto"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:fotos:videos:contacto"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:fotos:videos:contacto"/>
+    <file name="webpro.js" crc="4059564322" ref="index:fotos:contacto"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index:fotos"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index:fotos"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index:fotos"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:fotos:videos:contacto"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:fotos:videos:contacto"/>
+    <file name="require.js" crc="7928878" ref="index:fotos:videos:contacto"/>
+    <file name="form_check.php" crc="4020933626" ref="contacto"/>
+    <file name="form_throttle.php" crc="4259590256" ref="contacto"/>
+    <file name="form_process.php" crc="37464564" ref="contacto"/>
+    <file name="form-u4410.php" crc="4009017473" ref="contacto"/>
+  </folder>
+  <folder name="images">
+    <file name="portada-crop-u336.jpg" crc="442784233" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="perfil.png" crc="4119768586" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="muscia nota-crop-u1183.jpg" crc="3803668878" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="album-crop-u463.png" crc="3936423209" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="album-crop-u748.png" crc="3936423209" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wave1.jpg" crc="201039467" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="trouble.jpg" crc="3780695042" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="album-crop-u860.png" crc="3936423209" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="album-crop-u830.png" crc="3936423209" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="musica-crop-u972.png" crc="337093427" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1 ro.jpg" crc="3894465544" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="musica-crop-u982.png" crc="337093427" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="musica-crop-u949.png" crc="337093427" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2do.jpg" crc="4015804137" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="musica-crop-u1039.png" crc="337093427" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="23-crop-u1123.png" crc="3784330308" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="74809475_3069372886440065_6854594343571816448_n-crop-u1136.jpg" crc="3889315393" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="23-crop-u1149.png" crc="3784330308" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="musica (1).png" crc="231001504" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="agregar-simbolo-de-interfaz-de-cancion.png" crc="4113031716" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jiu-jitsu-u1455-fr.png" crc="287563186" ref="index"/>
+    <file name="jiu-jitsu-u1455-r-fr.png" crc="240599178" ref="index"/>
+    <file name="guantes-de-boxeo-u1509-fr.png" crc="518771518" ref="index"/>
+    <file name="guantes-de-boxeo-u1509-r-fr.png" crc="4264105547" ref="index"/>
+    <file name="brazilian-jiu-jitsu-2957075_1920.jpg" crc="4132778253" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="boxing-4339271_1920.jpg" crc="3961831228" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="game.jpg" crc="174407706" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="videojuegos-u1527-fr.png" crc="212751912" ref="index"/>
+    <file name="videojuegos-u1527-r-fr.png" crc="3997421696" ref="index"/>
+    <file name="loololo.png" crc="253196777" seo="true" ref="index:fotos:videos:contacto">
+      <caption webpage="index" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="fotos" alt=""/>
+    </file>
+    <file name="facebook-capa 0 copia.png" crc="3914613574" ref="index:fotos:videos:contacto">
+      <caption webpage="index" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="fotos" alt=""/>
+    </file>
+    <file name="facebook-capa 0.png" crc="3773912948" ref="index:fotos:videos:contacto">
+      <caption webpage="index" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="fotos" alt=""/>
+    </file>
+    <file name="gmail-capa 0 copia 2.png" crc="4198095543" ref="index:fotos:videos:contacto">
+      <caption webpage="index" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="fotos" alt=""/>
+    </file>
+    <file name="gmail-capa 0 copia.png" crc="3951643510" ref="index:fotos:videos:contacto">
+      <caption webpage="index" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="fotos" alt=""/>
+    </file>
+    <file name="instagram-capa 0 copia 2.png" crc="205776909" ref="index:fotos:videos:contacto">
+      <caption webpage="index" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="fotos" alt=""/>
+    </file>
+    <file name="instagram-capa 0 copia.png" crc="167002062" ref="index:fotos:videos:contacto">
+      <caption webpage="index" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="fotos" alt=""/>
+    </file>
+    <file name="youtube-capa 0.png" crc="338053250" ref="index:fotos:videos:contacto">
+      <caption webpage="index" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="fotos" alt=""/>
+    </file>
+    <file name="youtube-capa 1.png" crc="4103896154" ref="index:fotos:videos:contacto">
+      <caption webpage="index" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="fotos" alt=""/>
+    </file>
+    <file name="portada.jpg" crc="4139691713" ref="fotos">
+      <caption webpage="fotos" alt=""/>
+    </file>
+    <file name="portada2.jpg" crc="142374822" ref="fotos">
+      <caption webpage="fotos" alt=""/>
+    </file>
+    <file name="i miss you all _purple_heart_ ( 645 x 1080 ).jpg" crc="3952586869" ref="fotos">
+      <caption webpage="fotos" alt=""/>
+    </file>
+    <file name="en tomorrowland 2016-crop-u4193.jpg" crc="6861690" seo="true" ref="fotos">
+      <caption webpage="fotos" alt=""/>
+    </file>
+    <file name="i am number 12 in dj mag-crop-u4203.jpg" crc="4042085496" seo="true" ref="fotos">
+      <caption webpage="fotos" alt=""/>
+    </file>
+    <file name="r3hab x @vinivicimusic-crop-u4213.jpg" crc="3921509116" seo="true" ref="fotos">
+      <caption webpage="fotos" alt=""/>
+    </file>
+    <file name="foto 1.jpg" crc="421160917" ref="fotos">
+      <caption webpage="fotos" alt=""/>
+    </file>
+    <file name="is life.jpg" crc="4203065862" seo="true" ref="fotos">
+      <caption webpage="fotos" alt=""/>
+    </file>
+    <file name="the wave north america.jpg" crc="381194704" seo="true" ref="fotos">
+      <caption webpage="fotos" alt=""/>
+    </file>
+    <file name="we gonna win the world cup.jpg" crc="4178592755" seo="true" ref="fotos">
+      <caption webpage="fotos" alt=""/>
+    </file>
+    <file name="light me.jpg" crc="8881248" seo="true" ref="fotos">
+      <caption webpage="fotos" alt=""/>
+    </file>
+    <file name="r3hab vrd.jpg" crc="4248741392" seo="true" ref="fotos">
+      <caption webpage="fotos" alt=""/>
+    </file>
+    <file name="thank you thailand.jpg" crc="256410897" seo="true" ref="fotos">
+      <caption webpage="fotos" alt=""/>
+    </file>
+    <file name="don-t think,.jpg" crc="4067647165" seo="true" ref="fotos">
+      <caption webpage="fotos" alt=""/>
+    </file>
+    <file name="lullaby _.jpg" crc="123119279" seo="true" ref="fotos">
+      <caption webpage="fotos" alt=""/>
+    </file>
+    <file name="summer.jpg" crc="451381229" seo="true" ref="fotos">
+      <caption webpage="fotos" alt=""/>
+    </file>
+    <file name="icono video-capa 0.png" crc="284421637" ref="videos">
+      <caption webpage="videos" alt=""/>
+    </file>
+    <file name="icono video-capa 0 copia.png" crc="511724649" ref="videos">
+      <caption webpage="videos" alt=""/>
+    </file>
+    <file name="plantilla video2.png" crc="497987498" seo="true" ref="videos">
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
+    </file>
+    <file name="artista-capa 0 copia.png" crc="293733411" ref="videos">
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
+    </file>
+    <file name="artista-capa 0.png" crc="3938889537" ref="videos">
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
+    </file>
+    <file name="album-capa 0 copia.png" crc="4068266243" ref="videos">
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
+    </file>
+    <file name="album-capa 0.png" crc="440979636" ref="videos">
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
+    </file>
+    <file name="frecuencia-capa 0 copia.png" crc="328204726" ref="videos">
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
+    </file>
+    <file name="frecuencia-capa 0.png" crc="4007157163" ref="videos">
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
+    </file>
+    <file name="plantilla video.png" crc="346273081" seo="true" ref="videos">
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
+    </file>
+    <file name="plantilla.jpg" crc="149823057" seo="true" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="foto.jpg" crc="4218627255" seo="true" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3834316588" seo="true" mt="1602532273553" redirect="true"/>
+  <file name="fotos.html" crc="3849325299" seo="true" mt="1602532113361" redirect="true"/>
+  <file name="videos.html" crc="3877687197" seo="true" mt="1602532124057" redirect="true"/>
+  <file name="contacto.html" crc="3816019899" seo="true" mt="1602532097431" redirect="true"/>
+</manifest>
